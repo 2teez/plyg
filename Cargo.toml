@@ -1,0 +1,12 @@
+[package]
+name = "pg"
+version = "0.1.0"
+authors = ["timothy adigun <2teezrust@gmail.com>"]
+description = "A Playground to safely try out different programming languages in a single file"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+regex = "1.5.4"
+lazy_static = "1.4.0"
