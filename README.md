@@ -8,9 +8,9 @@
 
     ./plyg [extension_of_new_file] [file_to_use]
 		
-		OR 
+    OR 
 
-		plyg [extension_of_new_file] [file_to_use]
+    plyg [extension_of_new_file] [file_to_use]
 
 ## Description
 
