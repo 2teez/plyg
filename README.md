@@ -7,6 +7,10 @@
 ## Synopsis
 
     ./plyg [extension_of_new_file] [file_to_use]
+		
+		OR 
+
+		plyg [extension_of_new_file] [file_to_use]
 
 ## Description
 
@@ -174,6 +178,17 @@ int main()
 You can compile your `C` file using any compiler of your choice, and then run to get what you want.
 
 Note that the C program in the practice file is brought to the top of the file and other languages syntax are in comment.
+
+## Installation And Usage
+
+If you have `cargo` installed on your system; simply do like so:
+
+```cargo install plyg```
+
+However, if you download this from the github link. You might have to compile it using `cargo build` or `cargo run`. 
+
+You can then get the file `plyg` or `plyg.exe` from the target folder, then use it from your command line interface without installing it.
+
 
 ## Caveat
 
