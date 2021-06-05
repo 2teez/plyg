@@ -1,6 +1,6 @@
 [package]
 name = "plyg"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["timothy adigun <2teezrust@gmail.com>"]
 description = "A Playground to safely try out different programming languages in a single file"
 readme = "README.md"
