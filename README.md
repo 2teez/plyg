@@ -18,7 +18,7 @@ Like what playgrounds are for, test/check out these concepts in the same file, b
 
 The file could start out with _any_ programming langauge extension. See Example under the subtitle `Examples`.
 
-Note that the string that starts the block of code for any language, has no <EMPTY SPACE> between the _four_ forward slashes, and the word _start_. That is followed with <EMPTY SPACE> and then the _extension_ of the langauge to use.
+Note that the string that starts the block of code for any language, has no _EMPTY SPACE_ between the _four_ forward slashes, and the word _start_. That is followed with _EMPTY SPACE_ and then the _extension_ of the langauge to use.
 
 You can then write out the syntax of the langauge you want. To start another language just use the same block `////start <lang ext>`.
 
