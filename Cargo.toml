@@ -1,6 +1,6 @@
 [package]
 name = "plyg"
-version = "0.1.1"
+version = "0.2.0"
 authors = ["timothy adigun <2teezrust@gmail.com>"]
 description = "A Playground to safely try out different programming languages in a single file"
 readme = "README.md"
@@ -8,8 +8,7 @@ license = "MIT"
 repository = "https://github.com/2teez/plyg"
 keywords = ["playground", "play", "cli", "tools", "utility"]
 categories = ["command-line-utilities"]
-edition = "2018"
-
+edition = "2021"
 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
