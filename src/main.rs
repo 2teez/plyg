@@ -70,7 +70,7 @@ fn get_new_file_name(filename: &str, extension: &str) -> String {
 }
 
 fn write_file(filename: &str, extension: &str, map: HashMap<String, Vec<String>>) -> Result<()> {
-    if !map.keys().any(|x| x == &extension.clone().to_string()) {
+    if !map.keys().any(|x| x == &extension.to_string()) {
         println!(
             "File Extension provided [.{}], has no corresponding write up in the file been used.",
             &extension
