@@ -25,9 +25,13 @@ int main()
    fclose(fp);
    return 0;
 }
-////start rs
-////fn main() {
-////    println!("Hello, World of Rusty...");
+////start go
+////package main
+////
+////import "fmt"
+////
+////func main() {
+////	fmt.Println("hello world")
 ////}
 ////start java
 ////import static java.lang.System.out;
@@ -38,13 +42,17 @@ int main()
 ////		}
 ////}
 ////
-////start go
-////package main
-////
-////import "fmt"
-////
-////func main() {
-////	fmt.Println("hello world")
+////start cpp
+////#include <iostream>
+////#include <string>
+////int main()
+////{
+////    std::string name = "clojure";
+////    std::cout << "My name is " << name << std::endl;
+////}
+////start rs
+////fn main() {
+////    println!("Hello, World of Rusty...");
 ////}
 ////start js
 ////console.log("Hello, World, ja...");
